@@ -1,6 +1,23 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
-    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "title":"Tian Long's 博客",
+    "subTitle":"记录知识、技术与生活",
+    "avatarUrl":"https://avatars.githubusercontent.com/u/210493237?v=4&size=64",
+    "GMEEK_VERSION":"last",
+    "startSite":"02/16/2015",
+    "onePageListNum":15,
+    "singlePage":["link","about"],
+    "iconList":{"bilibili":"M0 3.75C0 2.784.784 2 1.75 2h12.5c.966 0 1.75.784 1.75 1.75v8.5A1.75 1.75 0 0 1 14.25 14H1.75A1.75 1.75 0 0 1 0 12.25Zm1.75-.25a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25v-8.5a.25.25 0 0 0-.25-.25Z"},
+    "exlink":{"bilibili":"https://space.bilibili.com/431191630"},
+    "commentLabelColor":"#006b75",
+    "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
+    "i18n":"CN",
+    "UTC":8,
+    "themeMode":"manual",
+    "dayTheme":"light",
+    "nightTheme":"dark_colorblind",
+    "urlMode":"pinyin",
+    "showPostSource":1,
+    "rssSplit":"sentence",
+    "bottomText":"转载请注明出处",
+    "needComment":0
 }
